@@ -10,4 +10,4 @@ In the repository you will find a file named IsPrime.py and if you download it y
 * To run it, you can press Ctrl + Enter or right-click and select "Run in Terminal".
 
 
-I hope you like it! 
+I hope you enjoy it!
